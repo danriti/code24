@@ -94,3 +94,17 @@ mention you got to kick it with an old friend?
 Now select a frequency for accomplishing a Code24 project with your partner
 (i.e. once a month, 6 times a year, etc) and go to Step 1.
 
+## Tools
+
+Well if you've read this far, then I'm assuming you are interested in taking on
+a Code24 project. So here is a small list of tools that you _might_ find helpful
+in accomplishing your project:
+
+* [Trello](https://trello.com/)
+* [Github](https://github.com/)
+* [Bitbucket](https://bitbucket.org/)
+* [FogBugz](http://www.fogcreek.com/fogbugz/)
+* [Skype](http://www.skype.com/)
+* [Google Video Chat](http://www.google.com/chat/video)
+* [toggl](https://www.toggl.com/)
+* [Bitnami Stacks](http://bitnami.org/)
