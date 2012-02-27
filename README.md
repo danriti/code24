@@ -34,6 +34,7 @@ The goals for Code24 include:
 * Contribute to existing open source projects
 * Learn, explore and play with new and exciting technologies (you know, the
 stuff they don't let you use at work!)
+* Give you material to blog about and teach others what you've learned
 * Actually complete a project and share it with the world
 * Have fun!
 
@@ -93,6 +94,8 @@ mention you got to kick it with an old friend?
 
 Now select a frequency for accomplishing a Code24 project with your partner
 (i.e. once a month, 6 times a year, etc) and go to Step 1.
+
+And don't forget to blog about your project and the cool stuff you just learned!
 
 ## Tools
 
