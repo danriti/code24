@@ -17,24 +17,25 @@ open source world!
 ## Inspiration
 
 The idea for Code24 is derived from the folks over at 
-[http://code52.org/](Code 52) whom accomplish a new programming project every
+[Code 52](http://code52.org/) whom accomplish a new programming project every
 week. While their schedule is quite impressive (not to mention aggressive), 
 alot of people don't have time between work, family, and hobbies to keep up with
-the Code52 folks. Thus, Code24 provides an avenue for busy people to enjoy
-social coding!
+the Code52 folks. Thus, Code24 provides an alternate avenue for busy people to 
+enjoy social coding!
 
 ## Goals
 
 The goals for Code24 include:
 
-* Learn how to work in a 2 person team to accomplish a project in 24 hours
+* Learn how to work in a 2 person team to accomplish a project in 24 work hours
+(2 people working 12 hours each)
 * Learn the ins and outs of __social coding__
-* Have fun!
 * Create your own open source projects
 * Contribute to existing open source projects
 * Learn, explore and play with new and exciting technologies (you know, the
 stuff they don't let you use at work!)
 * Actually complete a project and share it with the world
+* Have fun!
 
 ## How It Works
 
