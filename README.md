@@ -67,7 +67,7 @@ get started quickly.
 
 If you're not to big on design, you should read
 [this article](http://www.joelonsoftware.com/articles/fog0000000036.html) about
-why you should be designing. If you're just unfamiliar, then you should read
+why you should be designing. If you're just unfamiliar, then you should also read
 [the second part](http://www.joelonsoftware.com/articles/fog0000000035.html).
 
 Make sure you agree on the technologies you are going to use to accomplish the
